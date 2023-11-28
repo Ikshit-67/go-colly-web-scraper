@@ -4,6 +4,8 @@
 
 The Project Title project is a Go-based web scraping application using the Colly framework. It demonstrates the capabilities of Colly for efficiently crawling and extracting data from web pages. The application is designed to scrape quotes from a sample website, showcasing the use of Colly's features such as concurrent crawling, HTML element selection, and JSON data export.
 
+> Check official documentation of colly framework [here](https://go-colly.org/)
+
 ## Features
 
 - Concurrent and asynchronous web scraping with Colly.
@@ -38,5 +40,5 @@ go run main.go
 ```
 - Make sure you are in the correct directory
 
-Made with 🫶🏻, by ikshit
+Made with ❤️, by ikshit
 
