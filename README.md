@@ -14,8 +14,26 @@ The Project Title project is a Go-based web scraping application using the Colly
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+```bash 
+git clone https://github.com/Ikshit-67/go-colly-web-scraper.git
+cd go-colly-web-scraper
+```
 
-### Clone the Repository
+### Install Dependencies
+
+```bash
+go get -u github.com/gocolly/colly/v2
+```
+
+### Run the code
+Make sure you have go installed on your system, check it by running the command below:
+```bash
+go version
+```
+If you do not have go installed, install it by clicking [here](https://go.dev/doc/install)
+
+Once go is properly installed then run the main.go file by:
+```bash
+go run main.go
+```
+Make sure you are in the correct directory
