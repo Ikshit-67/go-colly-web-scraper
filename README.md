@@ -26,15 +26,17 @@ go get -u github.com/gocolly/colly/v2
 ```
 
 ### Run the code
-Make sure you have go installed on your system, check it by running the command below:
+- Make sure you have go installed on your system, check it by running the command below:
 ```bash
 go version
 ```
-If you do not have go installed, install it by clicking [here](https://go.dev/doc/install)
+- If you do not have go installed, install it by clicking [here](https://go.dev/doc/install)
 
-Once go is properly installed then run the main.go file by:
+- Once go is properly installed then run the main.go file by:
 ```bash
 go run main.go
 ```
-Make sure you are in the correct directory
+- Make sure you are in the correct directory
+
+Made with 🫶🏻, by ikshit
 
