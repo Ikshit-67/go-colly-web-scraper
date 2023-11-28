@@ -42,5 +42,5 @@ go run main.go
 - [Go docs](https://go.dev/doc/)
 - [Colly docs](https://go-colly.org/docs/)
 
-Made with ❤️, by ikshit
+Made with ❤️, by Ikshit C.
 
