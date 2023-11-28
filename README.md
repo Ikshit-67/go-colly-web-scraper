@@ -38,7 +38,7 @@ go run main.go
 ```
 - Make sure you are in the correct directory
 
-> You can also delete the allQuotes.json file. This file will automatically generate when you run main.go
+> You can also delete the allQuotes.json file. This file will be automatically generated when you run main.go
 
 ### Useful links
 - [Go docs](https://go.dev/doc/)
