@@ -8,12 +8,6 @@ import (
 	"github.com/gocolly/colly"
 )
 
-// type product struct {
-// 	Name     string `json: "name"`
-// 	Price    string `json: "price"`
-// 	ImageUrl string `json: "image_url"`
-// }
-
 // * Quote struct
 type Quote struct {
 	Text   string `json:"quote_text"`
@@ -86,6 +80,8 @@ func main() {
 		fmt.Println(err.Error())
 	}
 
+	// 0644 permission means you can read and write the file or directory and other users can only read it
+	// Suitable for public text files
 	os.WriteFile("allQuotes.json", data, 0644)
 
 	fmt.Println("JSON data written to allQuotes.json successfully.")
