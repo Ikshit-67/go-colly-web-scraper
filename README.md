@@ -2,9 +2,7 @@
 
 ## Description
 
-The Project Title project is a Go-based web scraping application using the Colly framework. It demonstrates the capabilities of Colly for efficiently crawling and extracting data from web pages. The application is designed to scrape quotes from a sample website, showcasing the use of Colly's features such as concurrent crawling, HTML element selection, and JSON data export.
-
-> Check official documentation of colly framework [here](https://go-colly.org/)
+The go-colly-web-scraper project is a Go-based web scraping application using the Colly framework. It demonstrates the capabilities of Colly for efficiently crawling and extracting data from web pages. The application is designed to scrape quotes from a sample website, showcasing the use of Colly's features such as concurrent crawling, HTML element selection, and JSON data export. Read more about colly [here](https://go-colly.org/)
 
 ## Features
 
@@ -39,6 +37,10 @@ go version
 go run main.go
 ```
 - Make sure you are in the correct directory
+
+### Useful links
+- [Go docs](https://go.dev/doc/)
+- [Colly docs](https://go-colly.org/docs/)
 
 Made with ❤️, by ikshit
 
